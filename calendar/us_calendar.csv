@@ -1,0 +1,51 @@
+datetime_utc,date,time_et,country,event,key,reference,actual,previous,revised_previous,consensus,forecast_model,unit,importance,source,status,note
+2026-10-01T12:30:00Z,2026-10-01,08:30,United States,Initial jobless claims,claims,week to Sep 26,197.0,197.0,198.0,,201.0,K,2,DOL,released,Previous revised from 197K to 198K; lowest since Jul 2026
+2026-10-02T12:30:00Z,2026-10-02,08:30,United States,Non-farm payrolls,nfp,Sep 2026,29.0,162.0,133.0,,71.0,K,3,BLS,released,Previous revised from 162K to 133K
+2026-10-02T12:30:00Z,2026-10-02,08:30,United States,Unemployment rate,unrate,Sep 2026,4.2,4.1,,,4.1,%,3,BLS,released,Above the model forecast
+2026-10-02T12:30:00Z,2026-10-02,08:30,United States,Average hourly earnings MoM,ahe_mom,Sep 2026,0.1,0.3,,,0.2,%,2,BLS,released,Below the model forecast
+2026-10-06T12:30:00Z,2026-10-06,08:30,United States,Trade balance,trade,Aug 2026,-105.6,-88.6,-92.8,,-88.6,USD B,2,BEA,released,Previous revised from -88.6 USD B to -92.8 USD B
+2026-10-08T12:30:00Z,2026-10-08,08:30,United States,Initial jobless claims,claims,week to Oct 3,197.0,197.0,199.0,,198.0,K,2,DOL,released,Previous revised from 197K to 199K; lowest since Jul 2026
+2026-10-14T12:30:00Z,2026-10-14,08:30,United States,CPI MoM,cpi_mom,Sep 2026,0.6,0.4,,,0.0,%,3,BLS,released,Above the model forecast
+2026-10-14T12:30:00Z,2026-10-14,08:30,United States,CPI YoY,cpi_yoy,Sep 2026,3.7,3.4,,,3.4,%,3,BLS,released,Above the model forecast
+2026-10-14T12:30:00Z,2026-10-14,08:30,United States,Core CPI MoM,core_cpi_mom,Sep 2026,0.3,0.3,,,0.2,%,3,BLS,released,Above the model forecast
+2026-10-14T12:30:00Z,2026-10-14,08:30,United States,Core CPI YoY,core_cpi_yoy,Sep 2026,2.6,2.4,,,2.4,%,3,BLS,released,Above the model forecast
+2026-10-15T12:30:00Z,2026-10-15,08:30,United States,Retail sales MoM,retail_mom,Sep 2026,0.8,1.1,1.3,,0.3,%,3,Census,released,Previous revised from 1.1% to 1.3%
+2026-10-15T12:30:00Z,2026-10-15,08:30,United States,Initial jobless claims,claims,week to Oct 10,199.0,197.0,198.0,,198.0,K,2,DOL,released,Previous revised from 197K to 198K
+2026-10-15T12:30:00Z,2026-10-15,08:30,United States,PPI final demand MoM,ppi_mom,Sep 2026,1.3,0.4,0.5,,0.1,%,2,BLS,released,Previous revised from 0.4% to 0.5%
+2026-10-15T12:30:00Z,2026-10-15,08:30,United States,Retail sales ex autos MoM,retail_xauto,Sep 2026,0.9,1.3,1.4,,0.3,%,2,Census,released,Previous revised from 1.3% to 1.4%
+2026-10-16T13:15:00Z,2026-10-16,09:15,United States,Industrial production MoM,indpro_mom,Sep 2026,0.7,0.0,0.1,,0.1,%,2,Fed,released,Previous revised from 0.0% to 0.1%
+2026-10-20T12:30:00Z,2026-10-20,08:30,United States,Housing starts,starts,Sep 2026,1.221,1.275,1.288,,1.275,M,2,Census,released,Previous revised from 1.275M to 1.288M
+2026-10-22T12:30:00Z,2026-10-22,08:30,United States,Initial jobless claims,claims,week to Oct 17,194.0,199.0,200.0,,199.0,K,2,DOL,released,Previous revised from 199K to 200K; lowest since Jul 2026
+2026-10-27T12:30:00Z,2026-10-27,08:30,United States,Durable goods orders MoM,durables,Sep 2026,1.8,-0.1,0.1,,0.5,%,2,Census,released,Previous revised from -0.1% to 0.1%
+2026-10-27T14:00:00Z,2026-10-27,10:00,United States,New home sales,new_homes,Sep 2026,0.676,0.684,0.68,,0.684,M,2,Census,released,Previous revised from 0.684M to 0.680M
+2026-10-28T18:00:00Z,2026-10-28,14:00,United States,Fed interest rate decision (upper bound),fomc,Oct 2026,4.0,4.0,,,4.0,%,3,Fed,released,Target range held: 3.75%-4.00%
+2026-10-29T12:30:00Z,2026-10-29,08:30,United States,Core PCE price index MoM,core_pce_mom,Sep 2026,0.3,0.2,0.3,,0.2,%,3,BEA,released,Previous revised from 0.2% to 0.3%
+2026-10-29T12:30:00Z,2026-10-29,08:30,United States,Core PCE price index YoY,core_pce_yoy,Sep 2026,3.1,3.0,,,3.0,%,3,BEA,released,Above the model forecast
+2026-10-29T12:30:00Z,2026-10-29,08:30,United States,GDP growth rate QoQ annualized,gdp,Q3 2026,3.4,2.2,,,2.2,%,3,BEA,released,Above the model forecast
+2026-10-29T12:30:00Z,2026-10-29,08:30,United States,PCE price index YoY,pce_yoy,Sep 2026,3.6,3.4,,,3.4,%,3,BEA,released,Above the model forecast
+2026-10-29T12:30:00Z,2026-10-29,08:30,United States,Initial jobless claims,claims,week to Oct 24,194.0,194.0,195.0,,197.0,K,2,DOL,released,Previous revised from 194K to 195K; lowest since Jul 2026
+2026-10-29T12:30:00Z,2026-10-29,08:30,United States,Personal spending MoM,spending_mom,Sep 2026,0.5,0.9,,,0.4,%,2,BEA,released,Above the model forecast
+2026-11-03T15:00:00Z,2026-11-03,10:00,United States,JOLTS job openings,jolts,Sep 2026,7.52,7.08,7.19,,7.08,M,2,BLS,released,Previous revised from 7.08M to 7.19M
+2026-11-04T13:30:00Z,2026-11-04,08:30,United States,Trade balance,trade,Sep 2026,-105.0,-105.6,-105.7,,-105.6,USD B,2,BEA,released,Previous revised from -105.6 USD B to -105.7 USD B
+2026-11-05T13:30:00Z,2026-11-05,08:30,United States,Initial jobless claims,claims,week to Oct 31,189.0,194.0,195.0,,196.0,K,2,DOL,released,Previous revised from 194K to 195K; lowest since Jul 2026
+2026-11-06T13:30:00Z,2026-11-06,08:30,United States,Non-farm payrolls,nfp,Oct 2026,165.0,29.0,60.0,,51.0,K,3,BLS,released,Previous revised from 29K to 60K
+2026-11-06T13:30:00Z,2026-11-06,08:30,United States,Unemployment rate,unrate,Oct 2026,4.1,4.2,,,4.2,%,3,BLS,released,Below the model forecast
+2026-11-06T13:30:00Z,2026-11-06,08:30,United States,Average hourly earnings MoM,ahe_mom,Oct 2026,0.4,0.1,0.3,,0.2,%,2,BLS,released,Previous revised from 0.1% to 0.3%
+2026-11-10T13:30:00Z,2026-11-10,08:30,United States,CPI MoM,cpi_mom,Oct 2026,0.4,0.6,,,0.4,%,3,BLS,released,In line with the model forecast
+2026-11-10T13:30:00Z,2026-11-10,08:30,United States,CPI YoY,cpi_yoy,Oct 2026,,3.7,,,,%,3,BLS,released,Not computable from published indexes: the Oct 2025 index was not published (2025 lapse in appropriations); see the BLS release text
+2026-11-10T13:30:00Z,2026-11-10,08:30,United States,Core CPI MoM,core_cpi_mom,Oct 2026,0.3,0.3,,,0.3,%,3,BLS,released,In line with the model forecast
+2026-11-10T13:30:00Z,2026-11-10,08:30,United States,Core CPI YoY,core_cpi_yoy,Oct 2026,,2.6,,,,%,3,BLS,released,Not computable from published indexes: the Oct 2025 index was not published (2025 lapse in appropriations); see the BLS release text
+2026-11-12T13:30:00Z,2026-11-12,08:30,United States,Initial jobless claims,claims,week to Nov 7,200.0,189.0,191.0,,193.0,K,2,DOL,released,Previous revised from 189K to 191K
+2026-11-13T13:30:00Z,2026-11-13,08:30,United States,PPI final demand MoM,ppi_mom,Oct 2026,0.3,1.3,1.4,,0.7,%,2,BLS,released,Previous revised from 1.3% to 1.4%
+2026-11-17T13:30:00Z,2026-11-17,08:30,United States,Retail sales MoM,retail_mom,Oct 2026,,0.8,,,0.6,%,3,Census,"released, not yet in archive",Published 17 Nov 08:30 ET; not yet in the public archive when collected
+2026-11-17T13:30:00Z,2026-11-17,08:30,United States,Retail sales ex autos MoM,retail_xauto,Oct 2026,,0.9,,,0.7,%,2,Census,"released, not yet in archive",Published 17 Nov 08:30 ET; not yet in the public archive when collected
+2026-11-18T13:30:00Z,2026-11-18,08:30,United States,Housing starts,starts,Oct 2026,,1.221,,,1.221,M,2,Census,scheduled,
+2026-11-19T13:30:00Z,2026-11-19,08:30,United States,Initial jobless claims,claims,week to Nov 14,,200.0,,,195.0,K,2,DOL,scheduled,
+2026-11-25T13:30:00Z,2026-11-25,08:30,United States,Core PCE price index MoM,core_pce_mom,Oct 2026,,0.3,,,0.2,%,3,BEA,scheduled,
+2026-11-25T13:30:00Z,2026-11-25,08:30,United States,Core PCE price index YoY,core_pce_yoy,Oct 2026,,3.1,,,3.1,%,3,BEA,scheduled,
+2026-11-25T13:30:00Z,2026-11-25,08:30,United States,GDP growth rate QoQ annualized,gdp,Q3 2026,,3.4,,,3.4,%,3,BEA,scheduled,Second estimate of Q3
+2026-11-25T13:30:00Z,2026-11-25,08:30,United States,PCE price index YoY,pce_yoy,Oct 2026,,3.6,,,3.6,%,3,BEA,scheduled,
+2026-11-25T13:30:00Z,2026-11-25,08:30,United States,Durable goods orders MoM,durables,Oct 2026,,1.9,,,1.0,%,2,Census,scheduled,
+2026-11-25T13:30:00Z,2026-11-25,08:30,United States,Initial jobless claims,claims,week to Nov 21,,,,,195.0,K,2,DOL,scheduled,Wednesday release in Thanksgiving week (usual practice; confirm)
+2026-11-25T13:30:00Z,2026-11-25,08:30,United States,Personal spending MoM,spending_mom,Oct 2026,,0.5,,,0.5,%,2,BEA,scheduled,
+2026-11-25T15:00:00Z,2026-11-25,10:00,United States,New home sales,new_homes,Oct 2026,,0.676,,,0.676,M,2,Census,scheduled,

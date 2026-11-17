@@ -1,0 +1,451 @@
+{
+ "release": "2026-10-15_retail",
+ "bundle": "retail",
+ "release_date": "2026-10-15",
+ "facts": [
+  {
+   "id": "retail_mom",
+   "label": "Retail sales MoM, Sep 2026",
+   "value": 0.8,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "retail sales",
+    "sales",
+    "retail",
+    "consumer spending at retailers",
+    "headline sales"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": 1.3,
+   "signed_level": false
+  },
+  {
+   "id": "retail_mom",
+   "label": "Retail sales MoM, Aug 2026 (revised)",
+   "value": 1.3,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "previous",
+   "month": "august",
+   "keywords": [
+    "retail sales",
+    "sales",
+    "retail",
+    "consumer spending at retailers",
+    "headline sales"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "retail_mom_first",
+   "label": "Retail sales MoM, Aug 2026 (as first reported)",
+   "value": 1.1,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "previous_first",
+   "month": "august",
+   "keywords": [
+    "retail sales",
+    "sales",
+    "retail",
+    "consumer spending at retailers",
+    "headline sales"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "retail_mom_model",
+   "label": "Retail sales MoM, model forecast (illustrative)",
+   "value": 0.3,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "forecast",
+   "month": "september",
+   "keywords": [
+    "retail sales",
+    "sales",
+    "retail",
+    "consumer spending at retailers",
+    "headline sales"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "retail_yoy",
+   "label": "Retail sales YoY, Sep 2026",
+   "value": 6.3,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "retail sales",
+    "sales",
+    "retail",
+    "consumer spending at retailers",
+    "headline sales"
+   ],
+   "measure": "yoy",
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "retail_xauto",
+   "label": "Retail sales ex autos MoM, Sep 2026",
+   "value": 0.9,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "excluding autos",
+    "ex-autos",
+    "ex autos",
+    "excluding motor vehicles",
+    "outside autos",
+    "excluding cars"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": 1.4,
+   "signed_level": false
+  },
+  {
+   "id": "retail_xauto",
+   "label": "Retail sales ex autos MoM, Aug 2026 (revised)",
+   "value": 1.4,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "previous",
+   "month": "august",
+   "keywords": [
+    "excluding autos",
+    "ex-autos",
+    "ex autos",
+    "excluding motor vehicles",
+    "outside autos",
+    "excluding cars"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "retail_xauto_first",
+   "label": "Retail sales ex autos MoM, Aug 2026 (as first reported)",
+   "value": 1.3,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "previous_first",
+   "month": "august",
+   "keywords": [
+    "excluding autos",
+    "ex-autos",
+    "ex autos",
+    "excluding motor vehicles",
+    "outside autos",
+    "excluding cars"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "retail_xauto_model",
+   "label": "Retail sales ex autos MoM, model forecast (illustrative)",
+   "value": 0.3,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "forecast",
+   "month": "september",
+   "keywords": [
+    "excluding autos",
+    "ex-autos",
+    "ex autos",
+    "excluding motor vehicles",
+    "outside autos",
+    "excluding cars"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y2_bp",
+   "label": "2-year Treasury yield, daily change",
+   "value": -5.0,
+   "family": "bp",
+   "unit_txt": " bp",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "2-year",
+    "two-year",
+    "2-year yield",
+    "two-year yield",
+    "2-year Treasury yield",
+    "short-dated yields",
+    "2-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y2_lvl",
+   "label": "2-year Treasury yield, close",
+   "value": 4.77,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "2-year",
+    "two-year",
+    "2-year yield",
+    "two-year yield",
+    "2-year Treasury yield",
+    "2-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y10_bp",
+   "label": "10-year Treasury yield, daily change",
+   "value": -9.0,
+   "family": "bp",
+   "unit_txt": " bp",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "10-year",
+    "ten-year",
+    "10-year yield",
+    "ten-year yield",
+    "10-year Treasury yield",
+    "long-dated yields",
+    "10-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y10_lvl",
+   "label": "10-year Treasury yield, close",
+   "value": 5.1,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "10-year",
+    "ten-year",
+    "10-year yield",
+    "ten-year yield",
+    "10-year Treasury yield",
+    "10-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "usd_pct",
+   "label": "Broad dollar index, daily % change",
+   "value": -0.36,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "dollar",
+    "dollar index",
+    "greenback",
+    "broad dollar",
+    "US dollar"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "eur_pct",
+   "label": "EUR/USD, daily % change",
+   "value": 0.73,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "euro",
+    "EUR/USD"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "eur_lvl",
+   "label": "EUR/USD, noon rate",
+   "value": 1.1204,
+   "family": "level",
+   "unit_txt": "",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "euro",
+    "EUR/USD"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "spx_pct",
+   "label": "S&P 500, daily % change",
+   "value": 0.33,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "S&P 500",
+    "S&P",
+    "stocks",
+    "equities",
+    "Wall Street",
+    "shares"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "spx_lvl",
+   "label": "S&P 500, close",
+   "value": 7744.06,
+   "family": "level",
+   "unit_txt": "",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "S&P 500",
+    "S&P",
+    "stocks",
+    "equities",
+    "Wall Street"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "ndq_pct",
+   "label": "Nasdaq Composite, daily % change",
+   "value": 0.08,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "Nasdaq",
+    "Nasdaq Composite",
+    "tech stocks"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "wti_pct",
+   "label": "WTI crude oil, daily % change",
+   "value": 8.69,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "oil",
+    "WTI",
+    "crude",
+    "oil prices",
+    "crude oil"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "wti_lvl",
+   "label": "WTI crude oil, USD per barrel",
+   "value": 104.71,
+   "family": "level",
+   "unit_txt": "$",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "oil",
+    "WTI",
+    "crude",
+    "oil prices",
+    "crude oil"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "fed_target",
+   "label": "Fed inflation goal (PCE, over time)",
+   "value": 2.0,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "context",
+   "month": "",
+   "keywords": [
+    "target",
+    "goal",
+    "Fed's target",
+    "Fed's goal",
+    "inflation target",
+    "2% target"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  }
+ ]
+}

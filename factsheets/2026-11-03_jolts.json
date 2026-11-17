@@ -1,0 +1,343 @@
+{
+ "release": "2026-11-03_jolts",
+ "bundle": "jolts",
+ "release_date": "2026-11-03",
+ "facts": [
+  {
+   "id": "jolts",
+   "label": "JOLTS job openings, Sep 2026",
+   "value": 7523.0,
+   "family": "count",
+   "unit_txt": "K",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "job openings",
+    "openings",
+    "vacancies",
+    "JOLTS"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": 7190.0,
+   "signed_level": false
+  },
+  {
+   "id": "jolts",
+   "label": "JOLTS job openings, Aug 2026 (revised)",
+   "value": 7190.0,
+   "family": "count",
+   "unit_txt": "K",
+   "role": "previous",
+   "month": "august",
+   "keywords": [
+    "job openings",
+    "openings",
+    "vacancies",
+    "JOLTS"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "jolts_first",
+   "label": "JOLTS job openings, Aug 2026 (as first reported)",
+   "value": 7079.0,
+   "family": "count",
+   "unit_txt": "K",
+   "role": "previous_first",
+   "month": "august",
+   "keywords": [
+    "job openings",
+    "openings",
+    "vacancies",
+    "JOLTS"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "jolts_model",
+   "label": "JOLTS job openings, model forecast (illustrative)",
+   "value": 7079.0,
+   "family": "count",
+   "unit_txt": "K",
+   "role": "forecast",
+   "month": "september",
+   "keywords": [
+    "job openings",
+    "openings",
+    "vacancies",
+    "JOLTS"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y2_bp",
+   "label": "2-year Treasury yield, daily change",
+   "value": 2.0,
+   "family": "bp",
+   "unit_txt": " bp",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "2-year",
+    "two-year",
+    "2-year yield",
+    "two-year yield",
+    "2-year Treasury yield",
+    "short-dated yields",
+    "2-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y2_lvl",
+   "label": "2-year Treasury yield, close",
+   "value": 4.61,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "2-year",
+    "two-year",
+    "2-year yield",
+    "two-year yield",
+    "2-year Treasury yield",
+    "2-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y10_bp",
+   "label": "10-year Treasury yield, daily change",
+   "value": 4.0,
+   "family": "bp",
+   "unit_txt": " bp",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "10-year",
+    "ten-year",
+    "10-year yield",
+    "ten-year yield",
+    "10-year Treasury yield",
+    "long-dated yields",
+    "10-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y10_lvl",
+   "label": "10-year Treasury yield, close",
+   "value": 4.95,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "10-year",
+    "ten-year",
+    "10-year yield",
+    "ten-year yield",
+    "10-year Treasury yield",
+    "10-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "usd_pct",
+   "label": "Broad dollar index, daily % change",
+   "value": 0.36,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "dollar",
+    "dollar index",
+    "greenback",
+    "broad dollar",
+    "US dollar"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "eur_pct",
+   "label": "EUR/USD, daily % change",
+   "value": -0.11,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "euro",
+    "EUR/USD"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "eur_lvl",
+   "label": "EUR/USD, noon rate",
+   "value": 1.1192,
+   "family": "level",
+   "unit_txt": "",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "euro",
+    "EUR/USD"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "spx_pct",
+   "label": "S&P 500, daily % change",
+   "value": 0.36,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "S&P 500",
+    "S&P",
+    "stocks",
+    "equities",
+    "Wall Street",
+    "shares"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "spx_lvl",
+   "label": "S&P 500, close",
+   "value": 7568.92,
+   "family": "level",
+   "unit_txt": "",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "S&P 500",
+    "S&P",
+    "stocks",
+    "equities",
+    "Wall Street"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "ndq_pct",
+   "label": "Nasdaq Composite, daily % change",
+   "value": 0.83,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "Nasdaq",
+    "Nasdaq Composite",
+    "tech stocks"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "wti_pct",
+   "label": "WTI crude oil, daily % change",
+   "value": -0.42,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "oil",
+    "WTI",
+    "crude",
+    "oil prices",
+    "crude oil"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "wti_lvl",
+   "label": "WTI crude oil, USD per barrel",
+   "value": 99.64,
+   "family": "level",
+   "unit_txt": "$",
+   "role": "market",
+   "month": "november",
+   "keywords": [
+    "oil",
+    "WTI",
+    "crude",
+    "oil prices",
+    "crude oil"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "fed_target",
+   "label": "Fed inflation goal (PCE, over time)",
+   "value": 2.0,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "context",
+   "month": "",
+   "keywords": [
+    "target",
+    "goal",
+    "Fed's target",
+    "Fed's goal",
+    "inflation target",
+    "2% target"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  }
+ ]
+}

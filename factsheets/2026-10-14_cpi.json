@@ -1,0 +1,649 @@
+{
+ "release": "2026-10-14_cpi",
+ "bundle": "cpi",
+ "release_date": "2026-10-14",
+ "facts": [
+  {
+   "id": "cpi_mom",
+   "label": "CPI MoM, Sep 2026",
+   "value": 0.6,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "CPI",
+    "consumer prices",
+    "consumer price index",
+    "headline",
+    "headline CPI",
+    "inflation",
+    "prices",
+    "headline inflation"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": 0.4,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_mom",
+   "label": "CPI MoM, Aug 2026 (revised)",
+   "value": 0.4,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "previous",
+   "month": "august",
+   "keywords": [
+    "CPI",
+    "consumer prices",
+    "consumer price index",
+    "headline",
+    "headline CPI",
+    "inflation",
+    "prices",
+    "headline inflation"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_mom_model",
+   "label": "CPI MoM, model forecast (illustrative)",
+   "value": 0.0,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "forecast",
+   "month": "september",
+   "keywords": [
+    "CPI",
+    "consumer prices",
+    "consumer price index",
+    "headline",
+    "headline CPI",
+    "inflation",
+    "prices",
+    "headline inflation"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_yoy",
+   "label": "CPI YoY, Sep 2026",
+   "value": 3.7,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "CPI",
+    "consumer prices",
+    "consumer price index",
+    "headline",
+    "headline CPI",
+    "inflation",
+    "prices",
+    "headline inflation",
+    "annual inflation"
+   ],
+   "measure": "yoy",
+   "basis": "NSA",
+   "prev": 3.4,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_yoy",
+   "label": "CPI YoY, Aug 2026 (revised)",
+   "value": 3.4,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "previous",
+   "month": "august",
+   "keywords": [
+    "CPI",
+    "consumer prices",
+    "consumer price index",
+    "headline",
+    "headline CPI",
+    "inflation",
+    "prices",
+    "headline inflation",
+    "annual inflation"
+   ],
+   "measure": "yoy",
+   "basis": "NSA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_yoy_model",
+   "label": "CPI YoY, model forecast (illustrative)",
+   "value": 3.4,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "forecast",
+   "month": "september",
+   "keywords": [
+    "CPI",
+    "consumer prices",
+    "consumer price index",
+    "headline",
+    "headline CPI",
+    "inflation",
+    "prices",
+    "headline inflation",
+    "annual inflation"
+   ],
+   "measure": "yoy",
+   "basis": "NSA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "core_cpi_mom",
+   "label": "Core CPI MoM, Sep 2026",
+   "value": 0.3,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "core",
+    "core CPI",
+    "core prices",
+    "core inflation",
+    "underlying inflation",
+    "excluding food and energy"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": 0.3,
+   "signed_level": false
+  },
+  {
+   "id": "core_cpi_mom",
+   "label": "Core CPI MoM, Aug 2026 (revised)",
+   "value": 0.3,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "previous",
+   "month": "august",
+   "keywords": [
+    "core",
+    "core CPI",
+    "core prices",
+    "core inflation",
+    "underlying inflation",
+    "excluding food and energy"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "core_cpi_mom_model",
+   "label": "Core CPI MoM, model forecast (illustrative)",
+   "value": 0.2,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "forecast",
+   "month": "september",
+   "keywords": [
+    "core",
+    "core CPI",
+    "core prices",
+    "core inflation",
+    "underlying inflation",
+    "excluding food and energy"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "core_cpi_yoy",
+   "label": "Core CPI YoY, Sep 2026",
+   "value": 2.6,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "core",
+    "core CPI",
+    "core prices",
+    "core inflation",
+    "underlying inflation",
+    "excluding food and energy"
+   ],
+   "measure": "yoy",
+   "basis": "NSA",
+   "prev": 2.4,
+   "signed_level": false
+  },
+  {
+   "id": "core_cpi_yoy",
+   "label": "Core CPI YoY, Aug 2026 (revised)",
+   "value": 2.4,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "previous",
+   "month": "august",
+   "keywords": [
+    "core",
+    "core CPI",
+    "core prices",
+    "core inflation",
+    "underlying inflation",
+    "excluding food and energy"
+   ],
+   "measure": "yoy",
+   "basis": "NSA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "core_cpi_yoy_model",
+   "label": "Core CPI YoY, model forecast (illustrative)",
+   "value": 2.4,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "forecast",
+   "month": "september",
+   "keywords": [
+    "core",
+    "core CPI",
+    "core prices",
+    "core inflation",
+    "underlying inflation",
+    "excluding food and energy"
+   ],
+   "measure": "yoy",
+   "basis": "NSA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_energy",
+   "label": "CPI energy MoM, SA, Sep 2026",
+   "value": 5.2,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "energy",
+    "energy prices",
+    "gasoline",
+    "fuel"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": 2.1,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_food",
+   "label": "CPI food MoM, SA, Sep 2026",
+   "value": 0.0,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "food",
+    "food prices",
+    "groceries"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": 0.1,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_shelter",
+   "label": "CPI shelter MoM, SA, Sep 2026",
+   "value": 0.4,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "shelter",
+    "housing costs",
+    "rents",
+    "rent"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": 0.3,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_services_less_energy",
+   "label": "CPI services less energy MoM, SA, Sep 2026",
+   "value": 0.4,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "services",
+    "core services",
+    "services excluding energy"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": 0.3,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_core_goods",
+   "label": "CPI core goods MoM, SA, Sep 2026",
+   "value": 0.3,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "goods",
+    "core goods",
+    "goods prices"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": 0.1,
+   "signed_level": false
+  },
+  {
+   "id": "cpi_mom_nsa",
+   "label": "CPI MoM, not seasonally adjusted, Sep 2026",
+   "value": 0.6,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "CPI",
+    "consumer prices",
+    "consumer price index",
+    "headline",
+    "headline CPI",
+    "inflation",
+    "prices",
+    "headline inflation"
+   ],
+   "measure": "mom",
+   "basis": "NSA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y2_bp",
+   "label": "2-year Treasury yield, daily change",
+   "value": 3.0,
+   "family": "bp",
+   "unit_txt": " bp",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "2-year",
+    "two-year",
+    "2-year yield",
+    "two-year yield",
+    "2-year Treasury yield",
+    "short-dated yields",
+    "2-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y2_lvl",
+   "label": "2-year Treasury yield, close",
+   "value": 4.82,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "2-year",
+    "two-year",
+    "2-year yield",
+    "two-year yield",
+    "2-year Treasury yield",
+    "2-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y10_bp",
+   "label": "10-year Treasury yield, daily change",
+   "value": -2.0,
+   "family": "bp",
+   "unit_txt": " bp",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "10-year",
+    "ten-year",
+    "10-year yield",
+    "ten-year yield",
+    "10-year Treasury yield",
+    "long-dated yields",
+    "10-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y10_lvl",
+   "label": "10-year Treasury yield, close",
+   "value": 5.19,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "10-year",
+    "ten-year",
+    "10-year yield",
+    "ten-year yield",
+    "10-year Treasury yield",
+    "10-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "usd_pct",
+   "label": "Broad dollar index, daily % change",
+   "value": 0.46,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "dollar",
+    "dollar index",
+    "greenback",
+    "broad dollar",
+    "US dollar"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "eur_pct",
+   "label": "EUR/USD, daily % change",
+   "value": -0.65,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "euro",
+    "EUR/USD"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "eur_lvl",
+   "label": "EUR/USD, noon rate",
+   "value": 1.1123,
+   "family": "level",
+   "unit_txt": "",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "euro",
+    "EUR/USD"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "spx_pct",
+   "label": "S&P 500, daily % change",
+   "value": -1.11,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "S&P 500",
+    "S&P",
+    "stocks",
+    "equities",
+    "Wall Street",
+    "shares"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "spx_lvl",
+   "label": "S&P 500, close",
+   "value": 7718.94,
+   "family": "level",
+   "unit_txt": "",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "S&P 500",
+    "S&P",
+    "stocks",
+    "equities",
+    "Wall Street"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "ndq_pct",
+   "label": "Nasdaq Composite, daily % change",
+   "value": -1.88,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "Nasdaq",
+    "Nasdaq Composite",
+    "tech stocks"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "wti_pct",
+   "label": "WTI crude oil, daily % change",
+   "value": 1.0,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "oil",
+    "WTI",
+    "crude",
+    "oil prices",
+    "crude oil"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "wti_lvl",
+   "label": "WTI crude oil, USD per barrel",
+   "value": 96.34,
+   "family": "level",
+   "unit_txt": "$",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "oil",
+    "WTI",
+    "crude",
+    "oil prices",
+    "crude oil"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "fed_target",
+   "label": "Fed inflation goal (PCE, over time)",
+   "value": 2.0,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "context",
+   "month": "",
+   "keywords": [
+    "target",
+    "goal",
+    "Fed's target",
+    "Fed's goal",
+    "inflation target",
+    "2% target"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  }
+ ]
+}

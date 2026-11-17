@@ -1,0 +1,28 @@
+trap_id,release,trap_type,text,expected
+T01,2026-10-14_cpi,mom_yoy,Consumer prices rose 3.7% in September from the previous month.,mom_yoy
+T02,2026-10-14_cpi,mom_yoy,Core CPI rose 0.3% from a year earlier in September.,mom_yoy
+T03,2026-11-06_jobs,revision,"Employers added 165,000 jobs in October, after 29,000 in September.",revision
+T04,2026-11-06_jobs,revision,Average hourly earnings rose 0.4% in October after 0.1% in September.,revision
+T05,2026-10-15_retail,revision,Retail sales rose 0.8% in September after a 1.1% gain in August.,revision
+T06,2026-11-10_cpi,sa_nsa,"Not seasonally adjusted, consumer prices rose 0.4% in October.",sa_nsa
+T07,2026-11-10_cpi,sa_nsa,"Seasonally adjusted, consumer prices rose 0.2% in October.",sa_nsa
+T08,2026-10-16_indpro,sign,Industrial production fell 0.7% in September.,sign
+T09,2026-11-06_jobs,sign,The 2-year Treasury yield fell 5 bp on the day.,sign
+T10,2026-11-06_jobs,unit,Employers added 165 million jobs in October.,unit
+T11,2026-11-03_jolts,unit,Job openings rose to 7.52 billion in September.,unit
+T12,2026-11-10_cpi,wrong_period,Consumer prices rose 0.4% in September.,wrong_period
+T13,2026-11-06_jobs,wrong_period,"Payrolls rose by 60,000 in October.",wrong_period
+T14,2026-11-06_jobs,direction,The unemployment rate rose to 4.1% in October.,direction
+T15,2026-10-15_retail,not_in_factsheet,Retail sales rose 1.0% in September.,not_in_factsheet
+C01,2026-11-06_jobs,control,"Employers added 165,000 jobs in October, and September was revised up to 60,000.",pass
+C02,2026-11-06_jobs,control,The unemployment rate fell to 4.1% from 4.2%.,pass
+C03,2026-11-06_jobs,control,Average hourly earnings rose 0.4% on the month and 3.1% from a year earlier.,pass
+C04,2026-11-06_jobs,control,"The 2-year Treasury yield rose 5 bp to 4.51%, and the S&P 500 gained 0.31%.",pass
+C05,2026-10-14_cpi,control,"Consumer prices rose 0.6% in September and 3.7% from a year earlier; core CPI rose 0.3%.",pass
+C06,2026-10-14_cpi,control,Energy prices jumped 5.2% while shelter costs rose 0.4%.,pass
+C07,2026-10-15_retail,control,"Retail sales rose 0.8% in September, after an upwardly revised 1.3% in August.",pass
+C08,2026-10-28_fomc,control,The Fed held the target range at 3.75%-4.00%.,pass
+C09,2026-11-03_jolts,control,Job openings rose to 7.52 million in September from 7.19 million.,pass
+C10,2026-10-29_gdp,control,The economy grew at a 3.4% annualized rate in the third quarter after 2.2% in Q2.,pass
+C11,2026-11-06_jobs,control,"September payrolls were initially reported at 29,000.",pass
+C12,2026-10-14_cpi,control,"Headline CPI beat the model forecast of 0.0%.",pass

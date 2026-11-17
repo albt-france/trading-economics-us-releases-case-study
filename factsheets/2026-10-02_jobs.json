@@ -1,0 +1,577 @@
+{
+ "release": "2026-10-02_jobs",
+ "bundle": "jobs",
+ "release_date": "2026-10-02",
+ "facts": [
+  {
+   "id": "nfp",
+   "label": "Non-farm payrolls, Sep 2026",
+   "value": 29.0,
+   "family": "count",
+   "unit_txt": "K",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "payrolls",
+    "non-farm payrolls",
+    "nonfarm payrolls",
+    "jobs",
+    "employers",
+    "employment",
+    "hiring",
+    "job gains",
+    "job growth"
+   ],
+   "measure": null,
+   "basis": "SA",
+   "prev": 133.0,
+   "signed_level": false
+  },
+  {
+   "id": "nfp",
+   "label": "Non-farm payrolls, Aug 2026 (revised)",
+   "value": 133.0,
+   "family": "count",
+   "unit_txt": "K",
+   "role": "previous",
+   "month": "august",
+   "keywords": [
+    "payrolls",
+    "non-farm payrolls",
+    "nonfarm payrolls",
+    "jobs",
+    "employers",
+    "employment",
+    "hiring",
+    "job gains",
+    "job growth"
+   ],
+   "measure": null,
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "nfp_first",
+   "label": "Non-farm payrolls, Aug 2026 (as first reported)",
+   "value": 162.0,
+   "family": "count",
+   "unit_txt": "K",
+   "role": "previous_first",
+   "month": "august",
+   "keywords": [
+    "payrolls",
+    "non-farm payrolls",
+    "nonfarm payrolls",
+    "jobs",
+    "employers",
+    "employment",
+    "hiring",
+    "job gains",
+    "job growth"
+   ],
+   "measure": null,
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "nfp_model",
+   "label": "Non-farm payrolls, model forecast (illustrative)",
+   "value": 71.0,
+   "family": "count",
+   "unit_txt": "K",
+   "role": "forecast",
+   "month": "september",
+   "keywords": [
+    "payrolls",
+    "non-farm payrolls",
+    "nonfarm payrolls",
+    "jobs",
+    "employers",
+    "employment",
+    "hiring",
+    "job gains",
+    "job growth"
+   ],
+   "measure": null,
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "nfp_avg3",
+   "label": "Payrolls, 3-month average change",
+   "value": 51.0,
+   "family": "count",
+   "unit_txt": "K",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "three-month average",
+    "3-month average",
+    "average"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "nfp_rev2",
+   "label": "Payrolls, combined revision to the two previous months",
+   "value": -60.0,
+   "family": "count",
+   "unit_txt": "K",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "revisions",
+    "combined revisions",
+    "net revisions",
+    "revisions to"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "unrate",
+   "label": "Unemployment rate, Sep 2026",
+   "value": 4.2,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "unemployment",
+    "unemployment rate",
+    "jobless rate"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": 4.1,
+   "signed_level": false
+  },
+  {
+   "id": "unrate",
+   "label": "Unemployment rate, Aug 2026 (revised)",
+   "value": 4.1,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "previous",
+   "month": "august",
+   "keywords": [
+    "unemployment",
+    "unemployment rate",
+    "jobless rate"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "unrate_model",
+   "label": "Unemployment rate, model forecast (illustrative)",
+   "value": 4.1,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "forecast",
+   "month": "september",
+   "keywords": [
+    "unemployment",
+    "unemployment rate",
+    "jobless rate"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "unrate_pp",
+   "label": "Unemployment rate, change on previous month",
+   "value": 0.1,
+   "family": "pp",
+   "unit_txt": " pp",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "unemployment",
+    "unemployment rate",
+    "jobless rate"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "ahe_mom",
+   "label": "Average hourly earnings MoM, Sep 2026",
+   "value": 0.1,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "earnings",
+    "hourly earnings",
+    "average hourly earnings",
+    "wages",
+    "wage growth",
+    "pay"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": 0.3,
+   "signed_level": false
+  },
+  {
+   "id": "ahe_mom",
+   "label": "Average hourly earnings MoM, Aug 2026 (revised)",
+   "value": 0.3,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "previous",
+   "month": "august",
+   "keywords": [
+    "earnings",
+    "hourly earnings",
+    "average hourly earnings",
+    "wages",
+    "wage growth",
+    "pay"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "ahe_mom_model",
+   "label": "Average hourly earnings MoM, model forecast (illustrative)",
+   "value": 0.2,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "forecast",
+   "month": "september",
+   "keywords": [
+    "earnings",
+    "hourly earnings",
+    "average hourly earnings",
+    "wages",
+    "wage growth",
+    "pay"
+   ],
+   "measure": "mom",
+   "basis": "SA",
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "ahe_yoy",
+   "label": "Average hourly earnings YoY, Sep 2026",
+   "value": 3.0,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "earnings",
+    "hourly earnings",
+    "average hourly earnings",
+    "wages",
+    "wage growth",
+    "pay"
+   ],
+   "measure": "yoy",
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "ahe_lvl",
+   "label": "Average hourly earnings, USD",
+   "value": 37.81,
+   "family": "level",
+   "unit_txt": "",
+   "role": "current",
+   "month": "september",
+   "keywords": [
+    "earnings",
+    "hourly earnings",
+    "average hourly earnings",
+    "wages",
+    "wage growth",
+    "pay"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y2_bp",
+   "label": "2-year Treasury yield, daily change",
+   "value": 5.0,
+   "family": "bp",
+   "unit_txt": " bp",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "2-year",
+    "two-year",
+    "2-year yield",
+    "two-year yield",
+    "2-year Treasury yield",
+    "short-dated yields",
+    "2-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y2_lvl",
+   "label": "2-year Treasury yield, close",
+   "value": 4.83,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "2-year",
+    "two-year",
+    "2-year yield",
+    "two-year yield",
+    "2-year Treasury yield",
+    "2-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y10_bp",
+   "label": "10-year Treasury yield, daily change",
+   "value": 4.0,
+   "family": "bp",
+   "unit_txt": " bp",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "10-year",
+    "ten-year",
+    "10-year yield",
+    "ten-year yield",
+    "10-year Treasury yield",
+    "long-dated yields",
+    "10-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "y10_lvl",
+   "label": "10-year Treasury yield, close",
+   "value": 5.28,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "10-year",
+    "ten-year",
+    "10-year yield",
+    "ten-year yield",
+    "10-year Treasury yield",
+    "10-year note"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "usd_pct",
+   "label": "Broad dollar index, daily % change",
+   "value": -0.33,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "dollar",
+    "dollar index",
+    "greenback",
+    "broad dollar",
+    "US dollar"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "eur_pct",
+   "label": "EUR/USD, daily % change",
+   "value": 0.24,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "euro",
+    "EUR/USD"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "eur_lvl",
+   "label": "EUR/USD, noon rate",
+   "value": 1.1259,
+   "family": "level",
+   "unit_txt": "",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "euro",
+    "EUR/USD"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "spx_pct",
+   "label": "S&P 500, daily % change",
+   "value": 0.73,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "S&P 500",
+    "S&P",
+    "stocks",
+    "equities",
+    "Wall Street",
+    "shares"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "spx_lvl",
+   "label": "S&P 500, close",
+   "value": 7722.72,
+   "family": "level",
+   "unit_txt": "",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "S&P 500",
+    "S&P",
+    "stocks",
+    "equities",
+    "Wall Street"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "ndq_pct",
+   "label": "Nasdaq Composite, daily % change",
+   "value": 1.19,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "Nasdaq",
+    "Nasdaq Composite",
+    "tech stocks"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "wti_pct",
+   "label": "WTI crude oil, daily % change",
+   "value": -1.88,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "oil",
+    "WTI",
+    "crude",
+    "oil prices",
+    "crude oil"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "wti_lvl",
+   "label": "WTI crude oil, USD per barrel",
+   "value": 97.89,
+   "family": "level",
+   "unit_txt": "$",
+   "role": "market",
+   "month": "october",
+   "keywords": [
+    "oil",
+    "WTI",
+    "crude",
+    "oil prices",
+    "crude oil"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  },
+  {
+   "id": "fed_target",
+   "label": "Fed inflation goal (PCE, over time)",
+   "value": 2.0,
+   "family": "pct",
+   "unit_txt": "%",
+   "role": "context",
+   "month": "",
+   "keywords": [
+    "target",
+    "goal",
+    "Fed's target",
+    "Fed's goal",
+    "inflation target",
+    "2% target"
+   ],
+   "measure": null,
+   "basis": null,
+   "prev": null,
+   "signed_level": false
+  }
+ ]
+}
