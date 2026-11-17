@@ -6,14 +6,8 @@ commentaries with automatic fact-checking, and an event study of how markets rea
 Independent case study built for the *Data Analyst - Americas* (economic news writer) role at Trading Economics.
 Based on public data; not affiliated with or endorsed by Trading Economics. **Not investment advice.**
 
-| | |
-|---|---|
-| **Report (8 pages)** | [docs/TradingEconomics_US_releases_case_study.pdf](docs/TradingEconomics_US_releases_case_study.pdf) |
-| **Rebuilt calendar** | [calendar/us_calendar.csv](calendar/us_calendar.csv) (1 Oct - 30 Nov 2026) |
-| **Commentaries** | [commentary/](commentary/) (12 real releases, trial drafts) and their [fact sheets](factsheets/) |
-| **Dashboard** | [dashboard/us_releases.html](dashboard/us_releases.html) (download and open; works offline) |
-| **Event study** | [notebooks/event_study.ipynb](notebooks/event_study.ipynb) |
-| **How I work on release day** | [docs/RELEASE_DAY_PLAYBOOK.md](docs/RELEASE_DAY_PLAYBOOK.md) · [docs/STYLE_GUIDE.md](docs/STYLE_GUIDE.md) |
+- **Report (8 pages):** [docs/TradingEconomics_US_releases_case_study.pdf](docs/TradingEconomics_US_releases_case_study.pdf)
+- **Interactive dashboard (one HTML file, works offline, 3 tabs):** [dashboard/us_releases.html](https://albt-france.github.io/trading-economics-us-releases-case-study/dashboard/us_releases.html)
 
 ![Overview](docs/img/00_overview.png)
 
